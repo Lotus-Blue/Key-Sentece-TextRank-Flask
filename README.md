@@ -46,13 +46,11 @@
 
 ### 运行截图
 
-![image-20191227224739139](C:\Users\20182\AppData\Roaming\Typora\typora-user-images\image-20191227224739139.png)
+![image-20191227224958562](ScreenShot\1.png)
 
-![image-20191227224937907](C:\Users\20182\AppData\Roaming\Typora\typora-user-images\image-20191227224937907.png)
+![image-20191227224958562](ScreenShot\2.png)
 
-
-
-![image-20191227225731391](C:\Users\20182\AppData\Roaming\Typora\typora-user-images\image-20191227225731391.png)
+![image-20191227224958562](ScreenShot\3.png)
 
 ## `Flask`配置
 
@@ -70,7 +68,7 @@
 
 #### 代码目录结构
 
-![image-20191227230107855](C:\Users\20182\AppData\Roaming\Typora\typora-user-images\image-20191227230107855.png)
+![image-20191227224958562](ScreenShot\4.png)
 
 其中`template`文件夹下为前端样式，只要是提交框以及新闻呈现样式
 
@@ -86,9 +84,9 @@
 
 ### 运行截图
 
-![image-20191227224958562](C:\Users\20182\AppData\Roaming\Typora\typora-user-images\image-20191227224958562.png)
+![image-20191227224958562](ScreenShot\5.png)
 
-![image-20191227225731391](C:\Users\20182\AppData\Roaming\Typora\typora-user-images\image-20191227225731391.png)
+![image-20191227224958562](ScreenShot\3.png)
 
 # 学习心得
 
