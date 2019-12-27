@@ -46,7 +46,7 @@
 
 ### 运行截图
 
-![image-20191227224958562](ScreenShot\1.png)
+![image-20191227224958562](ScreenShot/1.png)
 
 ![image-20191227224958562](ScreenShot\2.png)
 
